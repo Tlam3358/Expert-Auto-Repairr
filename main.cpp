@@ -9,7 +9,7 @@ using std::cout;
 using std::endl;
 using std::string;
 
-// Helper Class
+//Helper Class
 struct AssertEquals {
   static size_t tests;
   static size_t passed;
